@@ -10,7 +10,7 @@ import random
 import pickle
 from tensorflow.python.framework import ops
 
-llave = "ODI2NTcxMTQwNTE5ODIxMzQy.YGOaXA.NTyNVAFbshwtKcmPJfNdpu_nG3U"
+llave = ""
 
 # nltk.download('punkt')
 
